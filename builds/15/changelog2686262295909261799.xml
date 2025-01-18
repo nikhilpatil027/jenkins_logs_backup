@@ -1,0 +1,18 @@
+commit 5072b97ef3e839d6a53716c39837ea8e4176f173
+tree be06d4fe387b1d12b7a788af1cd2a7bc529478c3
+parent 7b98c0bcb6437dec9a41f1595d46160526f1444a
+author nikhilpatil027 <nikhilrpatil027@gmail.com> 2025-01-15 20:07:27 +0530
+committer GitHub <noreply@github.com> 2025-01-15 20:07:27 +0530
+
+    Update Jenkinsfile
+
+:100644 100644 b09f7f9df2a9815e3727e411b9076879fd80c06c da17788d889ee19c4ecf5c9028b1a7f18ab323bf M	Jenkinsfile
+commit 7b98c0bcb6437dec9a41f1595d46160526f1444a
+tree edc497d910b48904b990836c5873a4054800e1e7
+parent 44600cba135ec4f148c99b760867f99d6f264bd0
+author nikhilpatil027 <nikhilrpatil027@gmail.com> 2025-01-15 20:05:26 +0530
+committer GitHub <noreply@github.com> 2025-01-15 20:05:26 +0530
+
+    Update Jenkinsfile
+
+:100644 100644 fbdc800145e8cbf1560350acb89e9caf711b07b9 b09f7f9df2a9815e3727e411b9076879fd80c06c M	Jenkinsfile
